@@ -1,0 +1,1 @@
+# nushell-for-crypto-CLIs-course
