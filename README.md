@@ -1,1 +1,3 @@
-# nushell-for-crypto-CLIs-course
+# Nushell for crypto
+
+## Manage concensus computers like a pro
